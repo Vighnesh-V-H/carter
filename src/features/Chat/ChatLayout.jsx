@@ -1,6 +1,6 @@
 import { useLoaderData } from 'react-router-dom';
 import LinkButton from '../../ui/LinkButton';
-import ChatList from './ChatList.Jsx';
+import ChatList from './ChatList.jsx';
 import Chat from './Chat';
 import { useState } from 'react';
 
