@@ -4,6 +4,7 @@ import Header from './Header';
 import ProfileName from '../features/Profile/ProfileName';
 import Home from './Home';
 import Loader from './Loader';
+import Footer from './Footer';
 
 function AppLayout() {
   const navigation = useNavigation();
